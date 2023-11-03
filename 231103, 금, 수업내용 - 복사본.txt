@@ -1,0 +1,26 @@
+231103, 금, 수업내용
+----------------------------------------------------------------------------------------------
+
+1. git config --global user.name 아이디
+
+2. git config --global user.email 이메일
+
+-------------------------------------------------> 깃허브와 해당폴더를 연결하는 과정
+
+3. git init 깃 초기화
+
+4. git add . 파일을 올릴거니까 준비하시오 명령을 내리는 단계
+
+5. git status 올라갈 파일들을 파악
+
+5-1. git remote add origin 리파지터리 주소
+
+-------------------------------------------------> 파일이 올라갈 리파지터리와 연결시키는 단계
+
+6. git commit -m "first commit"   커밋할 이름 적기
+
+7. git push -u origin master  파일올리기 (-u는 빠져도 상관없음)
+
+9. Sign in with your browser
+
+10. Authorize  Git Credential Manager
